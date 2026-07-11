@@ -1,39 +1,93 @@
-Hi, I'm Malavika 👋
+# Hi there, I'm Malavika S 👋
 
-AI & ML Engineering Student | Builder | Problem Solver
+🎓 **B.Tech Artificial Intelligence & Machine Learning Student**
 
----
+I'm passionate about building intelligent applications using AI, Machine Learning, Computer Vision, and Python. I enjoy solving real-world problems through technology and continuously learning new tools and frameworks.
 
-## About Me
-- Engineering student focused on AI, ML, and Computer Vision
-- Interested in real-world systems like robotics and automation
-- Passionate about building projects, not just learning theory
+## 🚀 About Me
 
----
-
-## Skills
-- Python, C, Java
-- OpenCV, YOLO, Machine Learning basics
-- Git & GitHub
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💻 Python Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 👁️ Interested in Computer Vision & Deep Learning
+- 🌱 Currently learning ROS 2, Generative AI, and LLM Applications
+- 🚀 Open to internships, collaborations, and open-source contributions
 
 ---
 
-## Projects
-- YOLO-based Object Detection System
-- Robotics / IoT projects using ESP32
-- Java-based applications (Survey System)
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C
+- SQL
+- HTML
+- CSS
+- JavaScript (Basics)
+
+### AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- OpenCV
+- YOLOv8
+- PyTorch
+
+### Frameworks & Libraries
+- Flask
+- CustomTkinter
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+### Databases
+- SQLite
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Canva
+- Figma
 
 ---
 
-## Goals
-- Build production-level AI projects
-- Learn deployment (cloud + edge AI)
-- Contribute to real-world systems
+## 📌 Featured Projects
+
+🔐 Password Generator
+
+🖥️ Engineering Intelligence Hub
+
+🍾 Bottle Detection using YOLOv8
+
+🔢 MNIST Handwritten Digit Recognition
+
+🎬 Movie Recommendation System
+
+🎒 LostLink – Campus Lost & Found Platform
 
 ---
 
-## Connect
-GitHub: https://github.com/malavikasanthikrishna06-coder
-LinkedIn: (add here)
+## 📊 GitHub Stats
 
-⚡ Learning by building, not memorizing.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malavikasanthikrishna06-coder&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malavikasanthikrishna06-coder&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+- GitHub: https://github.com/malavikasanthikrishna06-coder
+- LinkedIn:www.linkedin.com/in/malavika-s-8b8343340
+
+
+
+---
+
+### 💡 Motto
+
+> "Learning, Building, and Growing—one project at a time."
